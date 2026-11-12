@@ -1,82 +1,101 @@
-# 👋 Hi, I'm Kalifah Alif!
+<!-- ANIMATED HEADER -->
+<div align="center">
 
-### 💻 Informatics Graduate | IT Enthusiast | Technology Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kalifah%20Alif%20Andrie&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Graduate%20%7C%20IT%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%"/>
 
-Welcome to my GitHub profile! I'm an Informatics graduate passionate about technology, software development, and IT infrastructure. I enjoy exploring new technologies, solving problems, and continuously improving my technical skills.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Informatics+Graduate;IT+Infrastructure+Enthusiast;Learning+and+Growing+Every+Day!" alt="Typing SVG"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+Hi! I'm **Kalifah Alif**, an Informatics graduate who is passionate about technology, IT infrastructure, and software development.
 
 - 🎓 Informatics Graduate
-- 💻 Interested in IT Support, Infrastructure, Quality Assurance, and Software Development
-- 🌱 Currently learning Laravel, Web Development, and IT Infrastructure
-- 🔍 Exploring new technologies and practical IT solutions
-- 🤝 Open to collaboration, internships, and new opportunities
+- 💻 Interested in IT Support, Infrastructure, QA, and Software Development
+- 🌱 Currently learning Laravel, Networking, and Software Testing
+- 🔍 Love exploring new technologies
+- 🤝 Open to collaboration and new opportunities
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack & Tools
 
-**Programming & Development**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode,postman,linux&theme=dark" />
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Currently Learning
 
-- Laravel & Backend Development
-- Software Quality Assurance (QA)
-- API Testing with Postman
-- IT Infrastructure & Networking
-- Server Management and Virtualization
+<div align="center">
+
+| Technology | Focus |
+|:---:|:---|
+| Laravel | Backend Development |
+| MySQL | Database Management |
+| Postman | API Testing |
+| VMware | Virtualization |
+| Networking | IT Infrastructure |
+| QA Testing | Software Quality Assurance |
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalifahAlif&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalifahAlif&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KalifahAlif&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KalifahAlif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalifahAlif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KalifahAlif&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KalifahAlif/KalifahAlif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/KalifahAlif" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/KalifahAlif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Continuous learning is the key to continuous growth."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-</p>
+### ✨ Keep Learning, Keep Building, Keep Growing!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
